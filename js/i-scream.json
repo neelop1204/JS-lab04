@@ -26,12 +26,12 @@
         "calories": 350,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/strawberry.svg"
+        "image": "https://github.com/neelop1204/JS-lab04/blob/main/images/ice-cream-xtra1.svg"
     }, {
         "name": "Vanilla",
         "calories": 400,
         "type": "ice-cream",
         "ingredients": ["Vanilla Syrup", "Vanilla Base"],
-        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/vanilla.svg"
+        "image": "https://github.com/neelop1204/JS-lab04/blob/main/images/ice-cream-xtra2.svg"
     }]
 }
